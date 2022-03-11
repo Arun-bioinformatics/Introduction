@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ghostertea, but you can call me tea.
-- 👀 I’m interested in Bioinformatics and computational biology.
+- 👀 I’m interested in bioinformatics and computational biology.
 - 🌱 I’m currently learning git.
 - 💞️ I’m looking to collaborate on any bioinformatics project.
 - 📫 You can reach me out in linkedin at:
